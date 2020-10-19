@@ -22,6 +22,23 @@ HOST,*.mob.com,Advertising
 HOST,*.fengkongcloud.com,Advertising
 HOST,*.adt.xdrig.com,Advertising
 
+## 喜马拉雅听书
+HOST-SUFFIX,ad.test.ximalaya.com,Advertising
+HOST-SUFFIX,ad.ximalaya.com,Advertising
+HOST-SUFFIX,adbehavior.wsa.ximalaya.com,Advertising
+HOST-SUFFIX,adbehavior.ximalaya.com,Advertising
+HOST-SUFFIX,adbs.ximalaya.com,Advertising
+HOST-SUFFIX,adse.test.ximalaya.com,Advertising
+HOST-SUFFIX,adse.wsa.ximalaya.com,Advertising
+HOST-SUFFIX,adse.ximalaya.com,Advertising
+HOST-SUFFIX,adsebs.ximalaya.com,Advertising
+HOST-SUFFIX,adwbs.ximalaya.com,Advertising
+HOST-SUFFIX,adweb.test.ximalaya.com,Advertising
+HOST-SUFFIX,adweb.ximalaya.com,Advertising
+HOST-SUFFIX,dns.ximalaya.com,Advertising
+HOST-SUFFIX,linkeye.ximalaya.com,Advertising
+HOST-SUFFIX,location.ximalaya.com,Advertising
+HOST-SUFFIX,xdcs-collector.ximalaya.com,Advertising
 
 
 
