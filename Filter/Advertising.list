@@ -1,0 +1,27 @@
+# 自用广告屏蔽，只屏蔽想要屏蔽的。节制！
+
+## 人人视频开屏广告
+HOST-SUFFIX,atomhike.com,Advertising
+HOST-SUFFIX,rp.hpplay.cn,Advertising
+HOST-SUFFIX,mi.gdt.qq.com,Advertising
+HOST-SUFFIX,raddus.bayescom.com,Advertising
+HOST-SUFFIX,s.jpush.cn,Advertising
+HOST-SUFFIX,dm.toutiao.com,Advertising
+HOST-SUFFIX,api-access.pangolin-sdk-toutiao.com,Advertising
+HOST-SUFFIX,sdk.e.qq.com,Advertising
+HOST-SUFFIX,adashxgc.ut.taobao.com,Advertising
+HOST-SUFFIX,beacon-api.aliyuncs.com,Advertising
+
+HOST,sdkauth.hpplay.cn,Advertising
+HOST,msspjh.emarbox.com,Advertising
+HOST,gd-stats.jpush.cn,Advertising
+HOST,www.qchannel01.cn,Advertising
+HOST,av1.xdrig.com,Advertising
+HOST,*.sis.jpush.io,Advertising
+HOST,*.mob.com,Advertising
+HOST,*.fengkongcloud.com,Advertising
+HOST,*.adt.xdrig.com,Advertising
+
+
+
+
