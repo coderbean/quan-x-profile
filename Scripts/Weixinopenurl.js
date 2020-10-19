@@ -22,7 +22,7 @@ if ((str.indexOf("taobao.com") != -1) || (str.indexOf("tb.cn") != -1) || (str.in
     option1["open-url"] = "taobao://" + str
     $notify(``, "", "点击打开淘宝", option1);
     // 记录打开的网址
-    console.log("weixinopentaobaourl" + option1["open-url"] + "\n\n")
+    console.log("[weixinopentaobaourl] " + option1["open-url"] + "\n")
 }
 // 由于现在微信提供了便捷的直接访问按钮，所以如果是其他非淘宝链接就不要再发送通知了
 // else {
