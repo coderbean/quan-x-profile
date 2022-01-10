@@ -1,0 +1,3 @@
+# 重新微博国际版链接为微博链接
+hostname = share.api.weibo.cn
+^https:\/\/share\.api\.weibo\.cn\/share\/\d+\.html\?weibo_id=(\d+)&? url 307 https://m.weibo.cn/status/$1?
